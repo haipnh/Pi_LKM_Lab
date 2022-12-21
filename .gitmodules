@@ -1,0 +1,3 @@
+[submodule "03_I2C_LCD_16x2"]
+	path = 03_I2C_LCD_16x2
+	url = https://github.com/haipnh/lcdi2c
